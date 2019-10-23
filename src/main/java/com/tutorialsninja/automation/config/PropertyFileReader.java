@@ -7,7 +7,7 @@ import com.tutorialsninja.automation.util.PathHelper;
 
 
 public class PropertyFileReader implements ConfigurationReader{
-	
+
 	Properties properties=null;
 	
 	
@@ -36,4 +36,4 @@ public class PropertyFileReader implements ConfigurationReader{
 	}
 
 	
-	}
+}
