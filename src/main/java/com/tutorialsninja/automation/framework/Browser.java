@@ -9,10 +9,9 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.htmlunit.HtmlUnitDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.opera.OperaDriver;
-
 import com.tutorialsninja.automation.base.Base;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
+
 
 public class Browser {
 	public static Logger log = Logger.getLogger(Browser.class);
